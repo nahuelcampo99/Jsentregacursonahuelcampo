@@ -1,0 +1,25 @@
+body{
+    background-color: azure;
+    margin: 0%;
+    padding: 0%;
+    border: cadetblue;
+
+}
+.contenedor{
+    background-color: aquamarine;
+    width: 100%;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 15px;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+.resultado{
+    margin-top: 30px;
+    padding: 10px;
+    background-color:azure;
+    border-radius: 4px;
+    display: none;
+}
